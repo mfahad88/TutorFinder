@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TutorFinder</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
